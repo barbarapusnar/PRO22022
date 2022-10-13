@@ -1,0 +1,8 @@
+D:\PRO22022\TestGit\TestGit\bin\Debug\TestGit.exe.config
+D:\PRO22022\TestGit\TestGit\bin\Debug\TestGit.exe
+D:\PRO22022\TestGit\TestGit\bin\Debug\TestGit.pdb
+D:\PRO22022\TestGit\TestGit\obj\Debug\TestGit.csproj.AssemblyReference.cache
+D:\PRO22022\TestGit\TestGit\obj\Debug\TestGit.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\TestGit\TestGit\obj\Debug\TestGit.csproj.CoreCompileInputs.cache
+D:\PRO22022\TestGit\TestGit\obj\Debug\TestGit.exe
+D:\PRO22022\TestGit\TestGit\obj\Debug\TestGit.pdb
