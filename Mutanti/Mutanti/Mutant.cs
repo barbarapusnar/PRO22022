@@ -8,11 +8,11 @@ namespace Mutanti
 {
     internal abstract class Mutant : IPrikazovalnik
     {
-        private string ime;
-        private int stopnja;
+        protected string ime;
+        protected int stopnja;
 
-        protected string Ime { get => ime; set => ime = value; }
-        protected int Stopnja { get => stopnja; set => stopnja = value; }
+        public string Ime { get => ime; set => ime = value; }
+        public int Stopnja { get => stopnja; set => stopnja = value; }
 
         public void PrikažiInformacije()
         {
