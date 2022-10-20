@@ -1,0 +1,8 @@
+D:\PRO22022\RačunajMatrike\RačunajMatrike\bin\Debug\RačunajMatrike.exe.config
+D:\PRO22022\RačunajMatrike\RačunajMatrike\bin\Debug\RačunajMatrike.exe
+D:\PRO22022\RačunajMatrike\RačunajMatrike\bin\Debug\RačunajMatrike.pdb
+D:\PRO22022\RačunajMatrike\RačunajMatrike\obj\Debug\RačunajMatrike.csproj.AssemblyReference.cache
+D:\PRO22022\RačunajMatrike\RačunajMatrike\obj\Debug\RačunajMatrike.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\RačunajMatrike\RačunajMatrike\obj\Debug\RačunajMatrike.csproj.CoreCompileInputs.cache
+D:\PRO22022\RačunajMatrike\RačunajMatrike\obj\Debug\RačunajMatrike.exe
+D:\PRO22022\RačunajMatrike\RačunajMatrike\obj\Debug\RačunajMatrike.pdb
