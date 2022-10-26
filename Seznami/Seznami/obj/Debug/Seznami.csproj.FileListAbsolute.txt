@@ -1,0 +1,11 @@
+D:\PRO22022\Seznami\Seznami\bin\Debug\Seznami.exe.config
+D:\PRO22022\Seznami\Seznami\bin\Debug\Seznami.exe
+D:\PRO22022\Seznami\Seznami\bin\Debug\Seznami.pdb
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.csproj.AssemblyReference.cache
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.Form1.resources
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.Properties.Resources.resources
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.csproj.GenerateResource.cache
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.csproj.CoreCompileInputs.cache
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.exe
+D:\PRO22022\Seznami\Seznami\obj\Debug\Seznami.pdb

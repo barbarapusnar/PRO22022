@@ -1,0 +1,11 @@
+D:\PRO22022\IgraKarte\IgraKarte\bin\Debug\IgraKarte.exe.config
+D:\PRO22022\IgraKarte\IgraKarte\bin\Debug\IgraKarte.exe
+D:\PRO22022\IgraKarte\IgraKarte\bin\Debug\IgraKarte.pdb
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.csproj.AssemblyReference.cache
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.Form1.resources
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.Properties.Resources.resources
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.csproj.GenerateResource.cache
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.csproj.CoreCompileInputs.cache
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.exe
+D:\PRO22022\IgraKarte\IgraKarte\obj\Debug\IgraKarte.pdb
