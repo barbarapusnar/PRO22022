@@ -1,0 +1,8 @@
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\bin\Debug\IzjemeOsnovne.exe.config
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\bin\Debug\IzjemeOsnovne.exe
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\bin\Debug\IzjemeOsnovne.pdb
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\obj\Debug\IzjemeOsnovne.csproj.AssemblyReference.cache
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\obj\Debug\IzjemeOsnovne.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\obj\Debug\IzjemeOsnovne.csproj.CoreCompileInputs.cache
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\obj\Debug\IzjemeOsnovne.exe
+D:\PRO22022\IzjemeOsnovne\IzjemeOsnovne\obj\Debug\IzjemeOsnovne.pdb

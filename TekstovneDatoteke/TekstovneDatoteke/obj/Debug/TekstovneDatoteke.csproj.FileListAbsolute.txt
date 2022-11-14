@@ -1,0 +1,11 @@
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\bin\Debug\TekstovneDatoteke.exe.config
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\bin\Debug\TekstovneDatoteke.exe
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\bin\Debug\TekstovneDatoteke.pdb
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.csproj.AssemblyReference.cache
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.Form1.resources
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.Properties.Resources.resources
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.csproj.GenerateResource.cache
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.csproj.CoreCompileInputs.cache
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.exe
+D:\PRO22022\TekstovneDatoteke\TekstovneDatoteke\obj\Debug\TekstovneDatoteke.pdb

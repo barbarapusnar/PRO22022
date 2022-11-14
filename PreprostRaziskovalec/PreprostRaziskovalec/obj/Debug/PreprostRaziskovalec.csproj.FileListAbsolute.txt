@@ -1,0 +1,11 @@
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\bin\Debug\PreprostRaziskovalec.exe.config
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\bin\Debug\PreprostRaziskovalec.exe
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\bin\Debug\PreprostRaziskovalec.pdb
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.csproj.AssemblyReference.cache
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.Form1.resources
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.Properties.Resources.resources
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.csproj.GenerateResource.cache
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.csproj.CoreCompileInputs.cache
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.exe
+D:\PRO22022\PreprostRaziskovalec\PreprostRaziskovalec\obj\Debug\PreprostRaziskovalec.pdb

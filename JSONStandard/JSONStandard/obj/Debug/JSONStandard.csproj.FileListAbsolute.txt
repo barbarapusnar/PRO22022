@@ -1,0 +1,11 @@
+D:\PRO22022\JSONStandard\JSONStandard\bin\Debug\JSONStandard.exe.config
+D:\PRO22022\JSONStandard\JSONStandard\bin\Debug\JSONStandard.exe
+D:\PRO22022\JSONStandard\JSONStandard\bin\Debug\JSONStandard.pdb
+D:\PRO22022\JSONStandard\JSONStandard\bin\Debug\Newtonsoft.Json.dll
+D:\PRO22022\JSONStandard\JSONStandard\bin\Debug\Newtonsoft.Json.xml
+D:\PRO22022\JSONStandard\JSONStandard\obj\Debug\JSONStandard.csproj.AssemblyReference.cache
+D:\PRO22022\JSONStandard\JSONStandard\obj\Debug\JSONStandard.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\JSONStandard\JSONStandard\obj\Debug\JSONStandard.csproj.CoreCompileInputs.cache
+D:\PRO22022\JSONStandard\JSONStandard\obj\Debug\JSONStandard.csproj.CopyComplete
+D:\PRO22022\JSONStandard\JSONStandard\obj\Debug\JSONStandard.exe
+D:\PRO22022\JSONStandard\JSONStandard\obj\Debug\JSONStandard.pdb

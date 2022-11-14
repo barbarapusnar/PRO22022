@@ -1,0 +1,8 @@
+D:\PRO22022\KličiMe\KličiMe\bin\Debug\KličiMe.exe.config
+D:\PRO22022\KličiMe\KličiMe\bin\Debug\KličiMe.exe
+D:\PRO22022\KličiMe\KličiMe\bin\Debug\KličiMe.pdb
+D:\PRO22022\KličiMe\KličiMe\obj\Debug\KličiMe.csproj.AssemblyReference.cache
+D:\PRO22022\KličiMe\KličiMe\obj\Debug\KličiMe.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\KličiMe\KličiMe\obj\Debug\KličiMe.csproj.CoreCompileInputs.cache
+D:\PRO22022\KličiMe\KličiMe\obj\Debug\KličiMe.exe
+D:\PRO22022\KličiMe\KličiMe\obj\Debug\KličiMe.pdb
