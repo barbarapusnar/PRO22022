@@ -1,0 +1,11 @@
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\bin\Debug\PrimerUčilnica.exe.config
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\bin\Debug\PrimerUčilnica.exe
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\bin\Debug\PrimerUčilnica.pdb
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\bin\Debug\Newtonsoft.Json.dll
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\bin\Debug\Newtonsoft.Json.xml
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\obj\Debug\PrimerUčilnica.csproj.AssemblyReference.cache
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\obj\Debug\PrimerUčilnica.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\obj\Debug\PrimerUčilnica.csproj.CoreCompileInputs.cache
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\obj\Debug\PrimerUčilnica.csproj.CopyComplete
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\obj\Debug\PrimerUčilnica.exe
+D:\PRO22022\PrimerUčilnica\PrimerUčilnica\obj\Debug\PrimerUčilnica.pdb

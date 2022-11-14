@@ -1,0 +1,11 @@
+D:\PRO22022\Karitas\Karitas\bin\Debug\Karitas.exe.config
+D:\PRO22022\Karitas\Karitas\bin\Debug\Karitas.exe
+D:\PRO22022\Karitas\Karitas\bin\Debug\Karitas.pdb
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.csproj.AssemblyReference.cache
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.Form1.resources
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.Properties.Resources.resources
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.csproj.GenerateResource.cache
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.csproj.CoreCompileInputs.cache
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.exe
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.pdb

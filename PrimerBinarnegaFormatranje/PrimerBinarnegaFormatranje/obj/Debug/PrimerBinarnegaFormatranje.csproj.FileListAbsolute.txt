@@ -1,0 +1,8 @@
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\bin\Debug\PrimerBinarnegaFormatranje.exe.config
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\bin\Debug\PrimerBinarnegaFormatranje.exe
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\bin\Debug\PrimerBinarnegaFormatranje.pdb
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\obj\Debug\PrimerBinarnegaFormatranje.csproj.AssemblyReference.cache
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\obj\Debug\PrimerBinarnegaFormatranje.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\obj\Debug\PrimerBinarnegaFormatranje.csproj.CoreCompileInputs.cache
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\obj\Debug\PrimerBinarnegaFormatranje.exe
+D:\PRO22022\PrimerBinarnegaFormatranje\PrimerBinarnegaFormatranje\obj\Debug\PrimerBinarnegaFormatranje.pdb
