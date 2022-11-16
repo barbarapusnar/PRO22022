@@ -9,3 +9,6 @@ D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.csproj.GenerateResource.cache
 D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.csproj.CoreCompileInputs.cache
 D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.exe
 D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.pdb
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.Resource1.resources
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.GlavnoOkno.resources
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.PregledPodatkov.resources

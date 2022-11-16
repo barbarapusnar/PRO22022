@@ -40,7 +40,7 @@ namespace Karitas
                 d.Znesek =0;
             }
             d.Opombe = txtOpombe.Text;
-            FileStream fs = new FileStream(@"D:\Pro22022\darovi.dat", FileMode.Append);
+            FileStream fs = new FileStream(Resource1.pot, FileMode.Append);
             BinaryFormatter bf = new BinaryFormatter();
             bf.Serialize(fs, d);
             fs.Close();
