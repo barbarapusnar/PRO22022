@@ -1,0 +1,37 @@
+﻿<Window x:Class="KaritasWPF.Pregled"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KaritasWPF"
+        mc:Ignorable="d"
+        Title="Pregled" Height="450" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ToolBar HorizontalAlignment="Left" VerticalAlignment="Top" >
+            <Button Content="" Width="35" Height="35">
+                <Button.Background>
+                    <ImageBrush ImageSource="FloppyDisk.ico"/>
+                </Button.Background>
+            </Button>
+            <Button Content="" Width="35" Height="35">
+                <Button.Background>
+                    <ImageBrush ImageSource="delete.ico"/>
+                </Button.Background>
+            </Button>
+        </ToolBar>
+        <DataGrid Grid.Row="1" x:Name="dgPodatki" AutoGenerateColumns="False"
+                    HorizontalAlignment="Left" VerticalAlignment="Top"
+                    Margin="10,20,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="20" Binding="{Binding ZapŠt}" Header="Št."/>
+                <DataGridTextColumn Width="120" Binding="{Binding Datum}" Header="Datum"/>
+                <DataGridTextColumn Width="150" Binding="{Binding Namen}" Header="Namen"/>
+                <DataGridTextColumn Width="120" Binding="{Binding Znesek}" Header="Znesek"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

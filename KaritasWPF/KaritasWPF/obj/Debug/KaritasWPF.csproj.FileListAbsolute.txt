@@ -17,3 +17,5 @@ D:\PRO22022\KaritasWPF\KaritasWPF\obj\Debug\KaritasWPF.exe
 D:\PRO22022\KaritasWPF\KaritasWPF\obj\Debug\KaritasWPF.pdb
 D:\PRO22022\KaritasWPF\KaritasWPF\obj\Debug\GlavnoOkno.g.cs
 D:\PRO22022\KaritasWPF\KaritasWPF\obj\Debug\GlavnoOkno.baml
+D:\PRO22022\KaritasWPF\KaritasWPF\obj\Debug\Pregled.g.cs
+D:\PRO22022\KaritasWPF\KaritasWPF\obj\Debug\Pregled.baml

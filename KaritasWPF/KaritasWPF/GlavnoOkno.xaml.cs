@@ -29,5 +29,11 @@ namespace KaritasWPF
             MainWindow x = new MainWindow();
             x.Show();
         }
+
+        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
+        {
+            Pregled x = new Pregled();
+            x.Show();
+        }
     }
 }
