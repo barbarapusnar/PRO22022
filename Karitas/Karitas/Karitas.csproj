@@ -78,6 +78,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resource1.resx</DependentUpon>
     </Compile>
+    <Compile Include="Tiskanje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tiskanje.Designer.cs">
+      <DependentUpon>Tiskanje.cs</DependentUpon>
+    </Compile>
     <Compile Include="Zaščita.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,6 +112,9 @@
     <EmbeddedResource Include="Resource1.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resource1.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tiskanje.resx">
+      <DependentUpon>Tiskanje.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Zaščita.resx">
       <DependentUpon>Zaščita.cs</DependentUpon>

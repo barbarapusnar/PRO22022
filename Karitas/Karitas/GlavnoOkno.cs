@@ -44,5 +44,12 @@ namespace Karitas
             a.MdiParent = this;
             a.Show();
         }
+
+        private void tiskanjeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Tiskanje a = new Tiskanje();
+            a.MdiParent = this;
+            a.Show();
+        }
     }
 }

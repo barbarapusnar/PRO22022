@@ -77,6 +77,7 @@
             this.tiskanjeToolStripMenuItem.Name = "tiskanjeToolStripMenuItem";
             this.tiskanjeToolStripMenuItem.Size = new System.Drawing.Size(61, 20);
             this.tiskanjeToolStripMenuItem.Text = "Tiskanje";
+            this.tiskanjeToolStripMenuItem.Click += new System.EventHandler(this.tiskanjeToolStripMenuItem_Click);
             // 
             // zaščitaInObnovaToolStripMenuItem
             // 
@@ -90,14 +91,14 @@
             // zaščitaToolStripMenuItem
             // 
             this.zaščitaToolStripMenuItem.Name = "zaščitaToolStripMenuItem";
-            this.zaščitaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.zaščitaToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.zaščitaToolStripMenuItem.Text = "Zaščita";
             this.zaščitaToolStripMenuItem.Click += new System.EventHandler(this.zaščitaToolStripMenuItem_Click);
             // 
             // obnovaToolStripMenuItem
             // 
             this.obnovaToolStripMenuItem.Name = "obnovaToolStripMenuItem";
-            this.obnovaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.obnovaToolStripMenuItem.Size = new System.Drawing.Size(116, 22);
             this.obnovaToolStripMenuItem.Text = "Obnova";
             this.obnovaToolStripMenuItem.Click += new System.EventHandler(this.obnovaToolStripMenuItem_Click);
             // 

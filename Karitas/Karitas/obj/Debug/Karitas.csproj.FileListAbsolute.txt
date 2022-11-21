@@ -12,3 +12,5 @@ D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.pdb
 D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.Resource1.resources
 D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.GlavnoOkno.resources
 D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.PregledPodatkov.resources
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.Zaščita.resources
+D:\PRO22022\Karitas\Karitas\obj\Debug\Karitas.Tiskanje.resources

@@ -1,0 +1,36 @@
+﻿<Window x:Class="KaritasWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KaritasWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="409" Width="358">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*" />
+
+            <ColumnDefinition Width="1*" />
+        </Grid.ColumnDefinitions>
+        <TextBlock Text="Zap.št" Grid.Row="0" Grid.Column="0"   />
+        <TextBox Name="txtZapŠt" Grid.Row="0" Grid.Column="1" />
+        <TextBlock Text="Datum" Grid.Column="0"  Grid.Row="1"/>
+        <DatePicker Name="dtpDatum" Grid.Column="1"  Grid.Row="1" SelectedDate="{Binding DisplayDate, ElementName=dtpDatum}"/>
+        <TextBlock Text="Namen" Grid.Row="2" Grid.Column="0" />
+        <TextBox Name="txtNamen" Grid.Row="2" Grid.Column="1" />
+        <TextBlock Text="Znesek" Grid.Row="3" Grid.Column="0" />
+        <TextBox Name="txtZnesek" Grid.Row="3" Grid.Column="1" />
+        <TextBlock Text="Opombe" Grid.Row="4" Grid.Column="0" />
+        <TextBox Name="txtOpombe" Grid.Row="4" Grid.Column="1" />
+        <Button Content="Vnesi" Grid.Row="5" Grid.Column="1" Click="Button_Click"/>
+
+    </Grid>
+</Window>
