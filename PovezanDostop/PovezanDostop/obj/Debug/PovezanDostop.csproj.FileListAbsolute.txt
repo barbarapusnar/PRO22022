@@ -1,0 +1,11 @@
+D:\PRO22022\PovezanDostop\PovezanDostop\bin\Debug\PovezanDostop.exe.config
+D:\PRO22022\PovezanDostop\PovezanDostop\bin\Debug\PovezanDostop.exe
+D:\PRO22022\PovezanDostop\PovezanDostop\bin\Debug\PovezanDostop.pdb
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.AssemblyReference.cache
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.Form1.resources
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.Properties.Resources.resources
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.GenerateResource.cache
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.csproj.CoreCompileInputs.cache
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.exe
+D:\PRO22022\PovezanDostop\PovezanDostop\obj\Debug\PovezanDostop.pdb

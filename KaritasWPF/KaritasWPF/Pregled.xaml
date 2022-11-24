@@ -6,6 +6,51 @@
         xmlns:local="clr-namespace:KaritasWPF"
         mc:Ignorable="d"
         Title="Pregled" Height="450" Width="800" Loaded="Window_Loaded">
+    <Window.Resources>
+        <DataTemplate x:Key="OblikaVrstice">
+            <Grid x:Name="RowDetailGrid"
+               Width="470"
+               Height="Auto"
+               Margin="5">
+                <Border HorizontalAlignment="Left"
+        VerticalAlignment="Top"
+        CornerRadius="5">
+                    <Border.Background>
+                        <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                            <GradientStop Offset="0" Color="WhiteSmoke" />
+                            <GradientStop Offset="0.75" Color="#AAFFFFAA" />
+                            <GradientStop Offset="1" Color="#AAFFD455" />
+                        </LinearGradientBrush>
+                    </Border.Background>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                            <RowDefinition Height="*" />
+                        </Grid.RowDefinitions>
+                        <TextBlock Grid.Row="0"
+          Margin="10"
+          HorizontalAlignment="Center"
+          FontSize="18"
+          FontWeight="Black"
+          Text="Opombe" />
+                        <TextBlock Grid.Row="1"
+          Margin="10"
+          HorizontalAlignment="Left"
+          Text="{Binding Opombe}"
+          TextWrapping="WrapWithOverflow" />
+                    </Grid>
+                </Border>
+                <Border Margin="0 0 8 0" CornerRadius="5">
+                    <Border.Background>
+                        <RadialGradientBrush Center="0.5,1" GradientOrigin="0,1" Opacity="0.3" RadiusX="0.8" RadiusY="0.8">
+                            <GradientStop Offset="1" Color="#AA58BD03" />
+                            <GradientStop Offset="1" Color="WhiteSmoke" />
+                        </RadialGradientBrush>
+                    </Border.Background>
+                </Border>
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
@@ -25,7 +70,7 @@
         </ToolBar>
         <DataGrid Grid.Row="1" x:Name="dgPodatki" AutoGenerateColumns="False"
                     HorizontalAlignment="Left" VerticalAlignment="Top"
-                    Margin="10,20,0,0">
+                    Margin="10,20,0,0" RowDetailsTemplate="{StaticResource OblikaVrstice}">
             <DataGrid.Columns>
                 <DataGridTextColumn Width="20" Binding="{Binding ZapŠt}" Header="Št."/>
                 <DataGridTextColumn Width="120" Binding="{Binding Datum}" Header="Datum"/>
