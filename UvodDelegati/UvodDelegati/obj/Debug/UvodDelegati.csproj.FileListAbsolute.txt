@@ -1,0 +1,8 @@
+D:\PRO22022\UvodDelegati\UvodDelegati\bin\Debug\UvodDelegati.exe.config
+D:\PRO22022\UvodDelegati\UvodDelegati\bin\Debug\UvodDelegati.exe
+D:\PRO22022\UvodDelegati\UvodDelegati\bin\Debug\UvodDelegati.pdb
+D:\PRO22022\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.csproj.AssemblyReference.cache
+D:\PRO22022\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.csproj.CoreCompileInputs.cache
+D:\PRO22022\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.exe
+D:\PRO22022\UvodDelegati\UvodDelegati\obj\Debug\UvodDelegati.pdb

@@ -1,0 +1,8 @@
+D:\PRO22022\VajaSQL\VajaSQL\bin\Debug\VajaSQL.exe.config
+D:\PRO22022\VajaSQL\VajaSQL\bin\Debug\VajaSQL.exe
+D:\PRO22022\VajaSQL\VajaSQL\bin\Debug\VajaSQL.pdb
+D:\PRO22022\VajaSQL\VajaSQL\obj\Debug\VajaSQL.csproj.AssemblyReference.cache
+D:\PRO22022\VajaSQL\VajaSQL\obj\Debug\VajaSQL.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\VajaSQL\VajaSQL\obj\Debug\VajaSQL.csproj.CoreCompileInputs.cache
+D:\PRO22022\VajaSQL\VajaSQL\obj\Debug\VajaSQL.exe
+D:\PRO22022\VajaSQL\VajaSQL\obj\Debug\VajaSQL.pdb

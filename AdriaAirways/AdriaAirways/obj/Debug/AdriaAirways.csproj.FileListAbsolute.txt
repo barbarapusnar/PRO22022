@@ -1,0 +1,8 @@
+D:\PRO22022\AdriaAirways\AdriaAirways\bin\Debug\AdriaAirways.exe.config
+D:\PRO22022\AdriaAirways\AdriaAirways\bin\Debug\AdriaAirways.exe
+D:\PRO22022\AdriaAirways\AdriaAirways\bin\Debug\AdriaAirways.pdb
+D:\PRO22022\AdriaAirways\AdriaAirways\obj\Debug\AdriaAirways.csproj.AssemblyReference.cache
+D:\PRO22022\AdriaAirways\AdriaAirways\obj\Debug\AdriaAirways.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\AdriaAirways\AdriaAirways\obj\Debug\AdriaAirways.csproj.CoreCompileInputs.cache
+D:\PRO22022\AdriaAirways\AdriaAirways\obj\Debug\AdriaAirways.exe
+D:\PRO22022\AdriaAirways\AdriaAirways\obj\Debug\AdriaAirways.pdb

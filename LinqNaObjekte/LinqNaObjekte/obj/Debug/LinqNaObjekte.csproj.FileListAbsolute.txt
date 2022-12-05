@@ -1,0 +1,8 @@
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\bin\Debug\LinqNaObjekte.exe.config
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\bin\Debug\LinqNaObjekte.exe
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\bin\Debug\LinqNaObjekte.pdb
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\obj\Debug\LinqNaObjekte.csproj.AssemblyReference.cache
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\obj\Debug\LinqNaObjekte.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\obj\Debug\LinqNaObjekte.csproj.CoreCompileInputs.cache
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\obj\Debug\LinqNaObjekte.exe
+D:\PRO22022\LinqNaObjekte\LinqNaObjekte\obj\Debug\LinqNaObjekte.pdb

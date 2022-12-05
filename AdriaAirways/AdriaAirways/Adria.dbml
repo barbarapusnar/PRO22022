@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Adria" Class="AdriaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\PRO22022\Adria.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="AdriaAirways.Properties.Settings" SettingsPropertyName="AdriaConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CHARTER" Member="CHARTERs">
+    <Type Name="CHARTER">
+      <Column Name="CHAR_POTOVANJE" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CHAR_DATUM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="CHAR_PILOT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CHAR_KOPILOT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="LET_ST" Type="System.String" DbType="NVarChar(5)" CanBeNull="true" />
+      <Column Name="CHAR_CILJ" Type="System.String" DbType="NVarChar(3)" CanBeNull="true" />
+      <Column Name="CHAR_RAZDALJA" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="CHAR_UR_LETA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="CHAR_UR_ČAKANJA" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="CHAR_GORIVO_GALLONS" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="CHAR_NAFTA_QTS" Type="System.Int16" DbType="SmallInt" CanBeNull="true" />
+      <Column Name="STR_KODA" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="LETALO_CHARTER" Member="LETALO" ThisKey="LET_ST" OtherKey="LET_ST" Type="LETALO" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="PILOT_CHARTER" Member="PILOT" ThisKey="CHAR_PILOT" OtherKey="ZAP_ST" Type="PILOT" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="STRANKA_CHARTER" Member="STRANKA" ThisKey="STR_KODA" OtherKey="STR_KODA" Type="STRANKA" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LETALO" Member="LETALOs">
+    <Type Name="LETALO">
+      <Column Name="LET_ST" Type="System.String" DbType="NVarChar(5) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MOD_KODA" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="AC_TTAF" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="AC_TTEL" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="AC_TTER" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Association Name="LETALO_CHARTER" Member="CHARTERs" ThisKey="LET_ST" OtherKey="LET_ST" Type="CHARTER" />
+      <Association Name="MODEL_LETALO" Member="MODEL" ThisKey="MOD_KODA" OtherKey="MOD_KODA" Type="MODEL" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.MODEL" Member="MODELs">
+    <Type Name="MODEL">
+      <Column Name="MOD_KODA" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MOD_PROIZVAJALEC" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="MOD_IME" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="MOD_SEDEŽEV" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MOD_NA_MILJO" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="MODEL_LETALO" Member="LETALOs" ThisKey="MOD_KODA" OtherKey="MOD_KODA" Type="LETALO" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PILOT" Member="PILOTs">
+    <Type Name="PILOT">
+      <Column Name="ZAP_ST" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PIL_LICENCA" Type="System.String" DbType="NVarChar(25)" CanBeNull="true" />
+      <Column Name="PIL_KVAL" Type="System.String" DbType="NVarChar(30)" CanBeNull="true" />
+      <Column Name="PIL_MED_TIP" Type="System.String" DbType="NVarChar(1)" CanBeNull="true" />
+      <Column Name="PIL_MED_DATUM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="PIL_PT135_DATUM" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="PILOT_CHARTER" Member="CHARTERs" ThisKey="ZAP_ST" OtherKey="CHAR_PILOT" Type="CHARTER" />
+      <Association Name="ZAPOSELNI_PILOT" Member="ZAPOSELNI" ThisKey="ZAP_ST" OtherKey="ZAP_ST" Type="ZAPOSELNI" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.STRANKA" Member="STRANKAs">
+    <Type Name="STRANKA">
+      <Column Name="STR_KODA" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="STR_PRIIMEK" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="STR_IME" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="STR_ZAČ" Type="System.String" DbType="NVarChar(1)" CanBeNull="true" />
+      <Column Name="STR_POŠTA" Type="System.String" DbType="NVarChar(3)" CanBeNull="true" />
+      <Column Name="STR_TELEFON" Type="System.String" DbType="NVarChar(8)" CanBeNull="true" />
+      <Column Name="STR_STANJE" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Association Name="STRANKA_CHARTER" Member="CHARTERs" ThisKey="STR_KODA" OtherKey="STR_KODA" Type="CHARTER" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ZAPOSELNI" Member="ZAPOSELNIs">
+    <Type Name="ZAPOSELNI">
+      <Column Name="ZAP_ST" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="ZAP_NAZIV" Type="System.String" DbType="NVarChar(4) NOT NULL" CanBeNull="false" />
+      <Column Name="ZAP_PRIIMEK" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="ZAP_IME" Type="System.String" DbType="NVarChar(15)" CanBeNull="true" />
+      <Column Name="ZAP_ZAČ" Type="System.String" DbType="NVarChar(1)" CanBeNull="true" />
+      <Column Name="ZAP_DR" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ZAP_DATUM_ZAP" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="ZAPOSELNI_PILOT" Member="PILOT" ThisKey="ZAP_ST" OtherKey="ZAP_ST" Type="PILOT" Cardinality="One" />
+    </Type>
+  </Table>
+</Database>

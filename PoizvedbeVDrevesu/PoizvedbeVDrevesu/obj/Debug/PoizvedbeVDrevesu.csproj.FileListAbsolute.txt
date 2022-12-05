@@ -1,0 +1,12 @@
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\PoizvedbeVDrevesu.exe.config
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\PoizvedbeVDrevesu.exe
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\PoizvedbeVDrevesu.pdb
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.csproj.AssemblyReference.cache
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.csproj.CoreCompileInputs.cache
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.exe
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.pdb
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\BinaryTree1.exe
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\BinaryTree1.pdb
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\bin\Debug\BinaryTree1.exe.config
+D:\PRO22022\PoizvedbeVDrevesu\PoizvedbeVDrevesu\obj\Debug\PoizvedbeVDrevesu.csproj.CopyComplete

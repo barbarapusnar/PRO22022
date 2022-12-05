@@ -1,0 +1,8 @@
+D:\PRO22022\VakaLinq\VakaLinq\bin\Debug\VakaLinq.exe.config
+D:\PRO22022\VakaLinq\VakaLinq\bin\Debug\VakaLinq.exe
+D:\PRO22022\VakaLinq\VakaLinq\bin\Debug\VakaLinq.pdb
+D:\PRO22022\VakaLinq\VakaLinq\obj\Debug\VakaLinq.csproj.AssemblyReference.cache
+D:\PRO22022\VakaLinq\VakaLinq\obj\Debug\VakaLinq.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\VakaLinq\VakaLinq\obj\Debug\VakaLinq.csproj.CoreCompileInputs.cache
+D:\PRO22022\VakaLinq\VakaLinq\obj\Debug\VakaLinq.exe
+D:\PRO22022\VakaLinq\VakaLinq\obj\Debug\VakaLinq.pdb

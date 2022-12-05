@@ -1,0 +1,8 @@
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\bin\Debug\BinaryTree1.exe.config
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\bin\Debug\BinaryTree1.exe
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\bin\Debug\BinaryTree1.pdb
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\obj\Debug\BinaryTree1.csproj.AssemblyReference.cache
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\obj\Debug\BinaryTree1.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\obj\Debug\BinaryTree1.csproj.CoreCompileInputs.cache
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\obj\Debug\BinaryTree1.exe
+D:\PRO22022\PoizvedbeVDrevesu\BinaryTree1\obj\Debug\BinaryTree1.pdb
