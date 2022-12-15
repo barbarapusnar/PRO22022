@@ -1,0 +1,13 @@
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\VajaLinqToEntities.exe.config
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\VajaLinqToEntities.exe
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\VajaLinqToEntities.pdb
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\EntityFramework.dll
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\EntityFramework.xml
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\obj\Debug\VajaLinqToEntities.csproj.AssemblyReference.cache
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\obj\Debug\VajaLinqToEntities.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\obj\Debug\VajaLinqToEntities.csproj.CoreCompileInputs.cache
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\obj\Debug\VajaLinqToEntities.csproj.CopyComplete
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\obj\Debug\VajaLinqToEntities.exe
+D:\PRO22022\VajaLinqToEntities\VajaLinqToEntities\obj\Debug\VajaLinqToEntities.pdb

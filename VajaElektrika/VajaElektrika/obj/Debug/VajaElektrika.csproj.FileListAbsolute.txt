@@ -1,0 +1,13 @@
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\VajaElektrika.exe.config
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\VajaElektrika.exe
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\VajaElektrika.pdb
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\EntityFramework.dll
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\EntityFramework.xml
+D:\PRO22022\VajaElektrika\VajaElektrika\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRO22022\VajaElektrika\VajaElektrika\obj\Debug\VajaElektrika.csproj.AssemblyReference.cache
+D:\PRO22022\VajaElektrika\VajaElektrika\obj\Debug\VajaElektrika.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\VajaElektrika\VajaElektrika\obj\Debug\VajaElektrika.csproj.CoreCompileInputs.cache
+D:\PRO22022\VajaElektrika\VajaElektrika\obj\Debug\VajaElektrika.csproj.CopyComplete
+D:\PRO22022\VajaElektrika\VajaElektrika\obj\Debug\VajaElektrika.exe
+D:\PRO22022\VajaElektrika\VajaElektrika\obj\Debug\VajaElektrika.pdb

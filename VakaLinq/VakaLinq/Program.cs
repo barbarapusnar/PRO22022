@@ -11,6 +11,8 @@ namespace VakaLinq
         static void Main(string[] args)
         {
             List<Naročilo> naročilaList = setupNaročila();
+            Urejanje.Sort<Naročilo>(naročilaList, Naročilo.UrediPoDatumu);
+            Urejanje.Sort<Naročilo>(naročilaList, (x1, x2) => x1.Datum < x2.Datum);
             var n1 = from a in naročilaList
                      select a;
             Console.WriteLine("Izberi vse podatke");
@@ -34,9 +36,10 @@ namespace VakaLinq
                 Console.WriteLine(x.ID+" "+x.Datum);
             }
             //izpis vseh podrobnosti naročil
-            var n4 = from a in naročilaList
-                     from b in a.Elementi
-                     select b;
+            //var n4 = from a in naročilaList
+            //         from b in a.Elementi
+            //         select b;
+            var n4 = naročilaList.SelectMany(e => e.Elementi);
             Console.WriteLine("Izberi vse podrobnosti");
             foreach (var x in n4)
             {
@@ -60,15 +63,15 @@ namespace VakaLinq
                 Console.WriteLine(x.NaročiloID);
             }
             //agregati
-            int[] števila = { 46, 24, 79, 35, 12, 57, 80, 68 };
-            var r1 = števila.Count();
-            var r2 = števila.Min();
-            var r3 = števila.Sum();
-            var r4 = števila.Average();
-            Console.WriteLine("Vse števil je "+r1);
-            Console.WriteLine("Minimum je "+r2);
-            Console.WriteLine("Vsota je "+r3);
-            Console.WriteLine("Povprečje je "+r4);
+            //int[] števila = { 46, 24, 79, 35, 12, 57, 80, 68 };
+            //var r1 = števila.Count();
+            //var r2 = števila.Min();
+            //var r3 = števila.Sum();
+            //var r4 = števila.Average();
+            //Console.WriteLine("Vse števil je "+r1);
+            //Console.WriteLine("Minimum je "+r2);
+            //Console.WriteLine("Vsota je "+r3);
+            //Console.WriteLine("Povprečje je "+r4);
             //število naročil z več kot dvema vrsticama
             var n7 = (from a in naročilaList
                      where a.Elementi.Count > 2

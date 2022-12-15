@@ -1,0 +1,8 @@
+D:\PRO22022\UporabaFunc\UporabaFunc\bin\Debug\UporabaFunc.exe.config
+D:\PRO22022\UporabaFunc\UporabaFunc\bin\Debug\UporabaFunc.exe
+D:\PRO22022\UporabaFunc\UporabaFunc\bin\Debug\UporabaFunc.pdb
+D:\PRO22022\UporabaFunc\UporabaFunc\obj\Debug\UporabaFunc.csproj.AssemblyReference.cache
+D:\PRO22022\UporabaFunc\UporabaFunc\obj\Debug\UporabaFunc.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\UporabaFunc\UporabaFunc\obj\Debug\UporabaFunc.csproj.CoreCompileInputs.cache
+D:\PRO22022\UporabaFunc\UporabaFunc\obj\Debug\UporabaFunc.exe
+D:\PRO22022\UporabaFunc\UporabaFunc\obj\Debug\UporabaFunc.pdb

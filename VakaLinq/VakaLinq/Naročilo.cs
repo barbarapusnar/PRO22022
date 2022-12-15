@@ -19,6 +19,14 @@ namespace VakaLinq
         {
             Elementi = new List<PodrobnostiNaročila>();
         }
+        public static bool UrediPoDatumu(Naročilo n1, Naročilo n2)
+        {
+            return n1.Datum < n2.Datum;
+        }
+        public static bool UrediPoZnesku(Naročilo n1, Naročilo n2)
+        {
+            return n1.Znesek < n2.Znesek;
+        }
 
     }
 }

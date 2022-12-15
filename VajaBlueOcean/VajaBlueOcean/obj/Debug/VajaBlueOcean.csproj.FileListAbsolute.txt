@@ -1,0 +1,13 @@
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\VajaBlueOcean.exe.config
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\VajaBlueOcean.exe
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\VajaBlueOcean.pdb
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\EntityFramework.dll
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\EntityFramework.xml
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\obj\Debug\VajaBlueOcean.csproj.AssemblyReference.cache
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\obj\Debug\VajaBlueOcean.csproj.SuggestedBindingRedirects.cache
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\obj\Debug\VajaBlueOcean.csproj.CoreCompileInputs.cache
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\obj\Debug\VajaBlueOcean.csproj.CopyComplete
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\obj\Debug\VajaBlueOcean.exe
+D:\PRO22022\VajaBlueOcean\VajaBlueOcean\obj\Debug\VajaBlueOcean.pdb
